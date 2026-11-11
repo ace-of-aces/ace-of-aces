@@ -6,7 +6,7 @@
 
 I enjoy working with Laravel & Vue and contributing to open source.
 
-Love to tinker with developer tooling atm 🛠️
+Currently tinkering with audio software, DSP, Swift, Rust and agent tooling 🛠️
 
 Find me on [Twitter](https://x.com/julian_center) or check out my [website](https://julian.center) ✨
 
